@@ -76,6 +76,7 @@ MorganResults/
 
 ```
 Romanov Ruslan A. (https://github.com/RRomanov), Isaev Yaroslav I. (https://github.com/IsaevYaroslavIv)
+                      romanovnsx@gmail.com                           isaev.yaroslav.ivanovo@gmail.com
 Kovanova Mariia A., Ph.D. of Chemical Sciences, Associate Professor (mariia.a.kovanova@gmail.com)
 Morgan Algorithm — Atom Numbering Tool. GitHub.
 ```
